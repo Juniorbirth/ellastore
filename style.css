@@ -110,3 +110,16 @@ img{
     width: 100%;
     position: relative;
 }
+
+
+
+@media (max-width: 768px) {
+   .produto{    width: 50%;
+   }
+    body {
+      font-size: 14px;
+    }
+    .menu {
+      display: none;
+    }
+  }
